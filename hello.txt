@@ -1,3 +1,4 @@
+GIT COMMANDS:
 1. init :- to initilize the git. 
              e.g. git init
 2. add . (add *) :- to add the file in repository.
